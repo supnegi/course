@@ -1,0 +1,25 @@
+img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
+
+hr {
+    width: 80%;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+}
+
+li {
+    list-style: none;
+}
